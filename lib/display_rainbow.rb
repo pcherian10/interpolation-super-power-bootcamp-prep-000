@@ -1,5 +1,6 @@
-def display_rainbow
+def display_rainbow(arr)
 
+  display_rainbow =["R:#{arr[0]
 
 
 
